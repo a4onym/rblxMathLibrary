@@ -11,4 +11,4 @@ A module for functions that is not in the standard ROBLOX library, but is quite 
 
 
 
-`library.fac(n)` - returns factoriel of n (n > 0)
+`library.fac(n)` - returns factorial of n (n > 0)
